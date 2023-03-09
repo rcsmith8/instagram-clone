@@ -1,3 +1,3 @@
 # Instagram Clone
 
-<img src=
+<img src="src/images/Instagram Clone.png" />
